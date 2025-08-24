@@ -12,7 +12,7 @@
 ## Description
 
 * This is an official implementation of the Refined Exponential Solver (RES) sampling algorithm for diffusion models. 
-* It also includes a general framework for implementing various sampling algorithms based on solving diffusion ODE/SDE.
+* It also includes [a general framework](https://github.com/qsh-zh/res/blob/main/res.py#L568-L640) for implementing various sampling algorithms based on solving diffusion ODE/SDE.
 
 ## Update
 
